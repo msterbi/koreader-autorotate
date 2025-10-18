@@ -4,3 +4,5 @@ A simple plugin for Koreader to automatically rotate the page to landscape if it
 To install it simply copy the plugins folder to your plugin folder in your reader.
 
 ### Archived - I finished reading Berserk and no longer have any reader. Feel free to fork!
+
+msterbi (18.10.2025) - modified to rotate counter clockwise instead of clockwise
